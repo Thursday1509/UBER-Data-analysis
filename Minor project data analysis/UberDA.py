@@ -48,8 +48,8 @@ for i in data['TRAVELLING_TIME']:
 data['TRAVELLING_TIME'] = time
 print(data.head())
 
-data['TRAVELLING_TIME']=data['TRAVELLING_TIME']/60
-data['SPEED'] =data['MILES*']/data['TRAVELLING_TIME']
+data['TRAVELLING_TIME'] = data['TRAVELLING_TIME']/60
+data['SPEED'] = data['MILES*']/data['TRAVELLING_TIME']
 print(data.head())
 
 sns.countplot(x='CATEGORY*', data=data)
