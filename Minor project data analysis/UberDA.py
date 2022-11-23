@@ -89,7 +89,5 @@ plt.legend(labels=('X=Diff. City Names',),
 plt.title('From which city most people are taking UBER for travelling')
 plt.show()
 data.groupby('PURPOSE*').mean().plot(kind='bar', figsize=(15, 5))
-plt.legend(labels=('X=purpose',),
-           loc='upper right')
 plt.title('Comparing all the purpose with miles, hour, day of the month, day of the week, month, Travelling time')
 plt.show()
