@@ -10,12 +10,15 @@ Analysis will do by making of Tables & Charts, so it’s easily understandable f
 
 
 ## Dataset
-[UBER trips](https://docs.google.com/spreadsheets/d/1ZOskXTujTuSpEYk0YLcN6XEJhB01RoJF5Zt5WJqNWFw/edit?usp=sharing)
-This Dataset is we get from website called kaggel 
-it is the data of UBER trips in 2016 of the USA, India, Shri Lanka
-[kaggel](https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/data)
+
+- This Dataset is we get from website called kaggel 
+- it is the data of UBER trips in 2016 of the USA, India, Shri Lanka
+- [UBER trips](https://docs.google.com/spreadsheets/d/1ZOskXTujTuSpEYk0YLcN6XEJhB01RoJF5Zt5WJqNWFw/edit?usp=sharing)
+- [kaggel](https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/data)
+
 ## Demo
-[Comparison of diff. entities](https://drive.google.com/file/d/19avHxMQjPNap9x_3g34PuUMTh3O2BA9-/view?usp=sharing)
+- [PPT](https://docs.google.com/presentation/d/1rdkvjOC0K_tAjrQ0vl2hgNL6DXEaLJsDC3T8vQXSiFM/edit?usp=sharing)
+- [Comparison of diff. entities](https://drive.google.com/file/d/19avHxMQjPNap9x_3g34PuUMTh3O2BA9-/view?usp=sharing)
 
 
 ## Authors
